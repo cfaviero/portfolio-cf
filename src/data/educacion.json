@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "nombre": "Analisis de Sistemas de Computacion",
+    "lugar": "Instituto Superior Combate de Mborore",
+    "fecha": "Marzo 2024 - Actualidad"
+  },
+  {
+    "id": 2,
+    "nombre": "Associate Cloud Engineer",
+    "lugar": "Google Cloud Skills Boost",
+    "fecha": "Agosto 2024 - Actualidad"
+  },
+  {
+    "id": 3,
+    "nombre": "Reparación y Mantenimiento de PC",
+    "lugar": "Comunidad Reparando",
+    "fecha": "2024"
+  },
+  {
+    "id": 4,
+    "nombre": "Especializacion Backend (Java con Spring, MySQL)",
+    "lugar": "Alura Latam - Oracle",
+    "fecha": "Marzo 2024 - Nov. 2024"
+  },
+  {
+    "id": 5,
+    "nombre": "Frontend React",
+    "lugar": "Digit@lers - Telecom",
+    "fecha": "Mayo 2023 - Nov. 2023"
+  },
+  {
+    "id": 6,
+    "nombre": "Full Stack Dev",
+    "lugar": "Argentina Programa",
+    "fecha": "Octubre 2021 - Sept. 2022"
+  }
+]

@@ -1,0 +1,16 @@
+[
+  {
+    "id": 1,
+    "nombre": "Sistemas en Clinica Privada",
+    "lugar": "City Salud",
+    "fecha": "2022",
+    "observaciones": ["Mantenimiento de equipos informáticos", "Help Desk", "Instalacion de Camaras"]
+  },
+  {
+    "id": 2,
+    "nombre": "Administrativo y Vendedor de Cursos/Carreras",
+    "lugar": "IGI - Instituto Gastronomico Internacional",
+    "fecha": "2016/2018",
+    "observaciones": ["Realizaba en Photoshop e Illustrator, diseños para publicidades y publicaciones de redes sociales.", "Digitalice todas las notas de los alumnos que se encontraban en papel con Drive y Hojas de cálculos. Facilitando el trabajo a mis compañeros y profesores."]
+  }
+]

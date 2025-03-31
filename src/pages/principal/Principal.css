@@ -1,0 +1,88 @@
+.principal {
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  padding-left: 7%;
+  padding-right: 7%;
+  color: var(--color);
+  margin-top: 3%;
+  margin-bottom: 0;
+}
+
+h1 {
+  text-align: center;
+  font-size: 4rem;
+  font-weight: 600;
+  text-shadow: 1px 1px 2px var(--color);
+}
+
+.sub {
+  font-size: 1.5rem;
+  font-weight: 300;
+  text-align: center;
+  margin-top: 0;
+}
+
+.habilidades {
+  margin: 12% 0;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+  gap: 30px;
+}
+
+.habilidades svg {
+  width: 140px;
+  height: auto;
+}
+
+.js {
+  fill: #F0DB4F;
+}
+.bootstrap {
+  fill: #563d7c;
+}
+.react {
+  fill: #61DBFB;
+}
+.java {
+  fill: #BC0B19;
+}
+.spring {
+  fill: #00FF7F;
+}
+.mysql {
+  fill: #00758f;
+}
+.informatica {
+  fill: #B5C0C9;
+}
+
+
+.intro {
+  font-weight: 400;
+  font-size: 1.1rem;
+  margin-top: 7%;
+  text-align: center;
+}
+
+@media (max-width: 700px) {
+  h1 {
+    font-size: 3.4rem;
+    text-align: left;
+  }
+  .habilidades svg {
+    width: 70px;
+    height: auto;
+  }
+  .sub {
+    margin-top: 0;
+    margin-bottom: 7%;
+    font-size: 1.6rem;
+    text-align: center;
+  }
+  .intro {
+    font-size: 1rem;
+  }
+}

@@ -1,0 +1,90 @@
+.proyectos {
+  margin: 4% 15%;
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+}
+
+.proyecto {
+  display: flex;
+  justify-content: space-between;
+  gap: 30%;
+}
+
+.proyecto svg {
+  width: 30px;
+  height: auto;
+}
+
+.proyecto svg{
+  fill: var(--color);
+}
+
+.proyecto p {
+  font-size: 1rem;
+}
+
+.stack {
+  width: 300px;
+  padding-left: 0;
+}
+
+.stack li {
+  font-weight: 600;
+  text-align: center;
+  width: 50%;
+  font-size: 0.6rem;
+  display: inline-block;
+  margin-right: 2%;
+  border-radius: 2px;
+  list-style: none;
+  background-color: var(--color);
+  color: var(--background);
+}
+
+.separadorProyectos {
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 1%;
+  width: 100%;
+}
+
+.links {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  justify-content: center;
+}
+
+@media (max-width: 700px) {
+  .proyectos {
+    display: flex;
+    gap: 16px;
+  }
+  .proyecto h2 {
+    font-size: 1.1rem;
+  }
+  .proyecto p {
+    font-size: .8rem;
+  }
+  .detalle {
+    text-align: left;
+    margin-bottom: 10%;
+  }
+
+  .stack {
+    padding: 0;
+    width: 200px;
+  }
+
+  .stack li {
+    width: 70%;
+    text-align: center;
+  }
+  .links {
+    display: flex;
+    flex-direction: column;
+    gap: 16%;
+    justify-content: center;
+  }
+}

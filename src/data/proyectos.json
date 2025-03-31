@@ -1,0 +1,47 @@
+[
+  {
+    "id": 1,
+    "nombre": "Tinder-Swipe",
+    "detalle": "Clon de Tinder parte de un challenge de Midudev",
+    "link": "https://github.com/cfaviero/tinder-swipe",
+    "vista": "https://cfaviero.github.io/tinder-swipe/",
+    "stack": ["HTML", "CSS", "JS"]
+  },
+  {
+    "id": 2,
+    "nombre": "Social Links Profile",
+    "detalle": "Challenge del Sitio FrontendMentor",
+    "link": "https://github.com/cfaviero/social-links-profile",
+    "vista": "https://cfaviero.github.io/social-links-profile/",
+    "stack": ["HTML", "CSS"]
+  },
+  {
+    "id": 3,
+    "nombre": "FAQ Accordion Main",
+    "detalle": "Challenge del Sitio FrontendMentor",
+    "link": "https://github.com/cfaviero/faq-accordion-main",
+    "vista": "https://cfaviero.github.io/faq-accordion-main/",
+    "stack": ["HTML", "CSS", "JS"]
+  },
+  {
+    "id": 4,
+    "nombre": "Challenge - Conversor de Monedas",
+    "detalle": "Challenge, parte de la especializacion en backend",
+    "link": "https://github.com/cfaviero/challenge-conversor-de-monedas",
+    "stack": ["Java", "Gson", "API-ExchangeRate"]
+  },
+  {
+    "id": 5,
+    "nombre": "Challenge - Literalura",
+    "detalle": "Challenge, parte de la especializacion en backend",
+    "link": "https://github.com/cfaviero/challenge-literarula",
+    "stack": ["Java", "SpringBoot", "Derived Queries - JPQL", "Jackson DataBinding", "PostgreSQL"]
+  },
+  {
+    "id": 6,
+    "nombre": "Challenge - Forohub",
+    "detalle": "Proyecto Challenge de una replica de una APIREST de un foro de Alura en la cual se creo un crud y se aplico seguridad con JWT y se lo documento con SpringDocs.",
+    "link": "https://github.com/cfaviero/forohub-challenge",
+    "stack": ["Java", "Maven", "SpringBoot", "JWT", "MySQL"]
+  }
+]
