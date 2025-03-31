@@ -1,8 +1,8 @@
 import { useEffect, useState } from "react";
+import sun from '../assets/sun.png';
+import moon from '../assets/moon.png';
 
 const ModoOscuro = () => {
-  const sun = "../src/assets/sun.png";
-  const moon = "../src/assets/moon.png"; 
   const [modo, setModo] = useState(localStorage.getItem("temaSeleccionado"));
   const [icono, setIcono] = useState(moon);
 
